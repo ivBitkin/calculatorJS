@@ -1,0 +1,30 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  margin-top: 100px;
+}
+table{
+  background-color: #7ba346;
+  margin: auto;
+}
+button{
+  color: #ebd194;
+  font-size: 28px;
+  font-weight: bold;
+  width: 100px;
+  height: 80px;
+  background-color: #a87d19;
+}
+#inputLabel{
+  color: #ebe66e;
+  font-size: 28px;
+  font-weight: bold;
+}
+.ac{
+  width: 308px !important;
+}
+.zero{
+  width: 204px;
+}
